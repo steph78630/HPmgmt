@@ -6,14 +6,14 @@
 ' Author :		
 '----------------------------------------------------------
 ' OS checked [X] on	32b	64b	(Professionnal edition)
-'	Windows XP		[ ]
-'	Windows Vista	[ ]	[ ]
-'	Windows 7		[ ]	[ ]
-'	Windows 8.1		[ ]	[ ]
-'	Windows 10		[ ]	[ ]
-'	Windows 2k8R2		[ ]
-'	Windows 2k12R2		[ ]
-'	Windows 2k16		[ ]
+'   Windows XP		  [ ]
+'   Windows Vista	  [ ]	[ ]
+'   Windows 7	  	  [ ]	[ ]
+'   Windows 8.1		  [ ]	[ ]
+'   Windows 10		  [ ]	[ ]
+'   Windows 2k8R2 		  [ ]
+'   Windows 2k12R2	  	[ ]
+'   Windows 2k16	    	[ ]
 ' ---------------------------------------------------------
 ' NOTE : No checked on Windows 8
 ' ---------------------------------------------------------
